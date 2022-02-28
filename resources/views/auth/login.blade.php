@@ -70,8 +70,8 @@
               </div>
             </div>
             <div class="simple-footer">
-              Copyright &copy; Stisla 2018
-            </div>
+              Copyright &copy; Stisla 2018  <div class="bullet"></div> System By <a href="https://www.instagram.com/stefani.hallatu/">Stefani Tasya Hallatu</a>
+          </div>
           </div>
         </div>
       </div>
